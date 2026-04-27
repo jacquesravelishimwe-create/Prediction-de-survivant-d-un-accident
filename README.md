@@ -1,8 +1,7 @@
 # Prediction-de-survivant-d-un-accident
 
 ## Description
-Dans ce projet, on classifie les survivants d'un accident
-L'Objectif est d'atteindre un recall de 80% et un f1_score de 60%
+Dans ce projet, on classifie les survivants d'un accident. L'objectif est d'atteindre un recall de 80% et un f1_score de 60%
 
 # Objectif
 Réussir à comprendre les données et créer une première stratégie d'analyse.
